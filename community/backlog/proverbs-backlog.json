@@ -152,7 +152,7 @@
     "english": "Giving birth is easier than worrying",
     "meaning": "Things are often easier done than worried about",
     "completed": false,
-    "issued": false
+    "issued": true
   },
   {
     "id": 18,
@@ -1080,7 +1080,7 @@
     "romaji": "Warau kado ni wa fuku kitaru",
     "english": "Fortune comes to a laughing gate",
     "meaning": "Happiness brings good fortune",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
@@ -1224,7 +1224,7 @@
     "romaji": "Raku areba ku ari",
     "english": "After ease comes hardship",
     "meaning": "Good times and bad times alternate",
-    "completed": false,
+    "completed": true,
     "issued": false
   },
   {
